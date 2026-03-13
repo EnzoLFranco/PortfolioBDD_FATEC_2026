@@ -11,8 +11,15 @@ Os projetos reunidos aqui foram elaborados durante o curso de Tecnologia em Banc
   <img src="imgs/pfp.png" width="150">
 </p>
 
+<p align="center">
+  <a href="https://github.com/EnzoLFranco">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/enzo-lemos-franco/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
  
-[GitHub](https://github.com/EnzoLFranco) | [LinkedIn](https://www.linkedin.com/in/enzo-lemos-franco/)
 
 ## Autor
 
