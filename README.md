@@ -21,35 +21,31 @@ Atualmente sou Aprendiz Administrativo na Cebrace, utilizando tecnologias como P
 
 # Principais Conhecimentos
 
-## Linguagens de Programação e Frameworks
+##  Linguagens e Frameworks
 
-**Java** para criação de APIs REST utilizando o Framework Spring Boot, com foco em escalabilidade e persistência de dados (JPA/Hibernate).
-
-**Python**  para desenvolvimento de automações, scripts de melhoria de processos e análise de dados industriais.
-
-**Vue.js** para construção de interfaces interativas e integração com serviços Back-End.
-
-**SQL** para modelagem e manipulação de bancos de dados PostgreSQL e MySQL, além de conhecimento acadêmico em Oracle.
+| Tecnologia | Descrição |
+|------------|-----------|
+| **Java** | Criação de APIs REST com Spring Boot, focadas em escalabilidade e persistência de dados com JPA/Hibernate |
+| **Python** | Automação de processos, scripts e análise de dados industriais |
+| **Vue.js** | Desenvolvimento de interfaces interativas integradas com serviços Back-End |
+| **SQL** | Modelagem e manipulação de bancos PostgreSQL, MySQL e conhecimento acadêmico em Oracle |
 
 ---
 
-## Metodologia Ágil e Gestão
+##  Metodologias e Gestão
 
-**Scrum**  
-Atuação em projetos com entregas iterativas e foco em agilidade.
-
-**Jira**  
-Organização de backlogs, gerenciamento de User Stories e acompanhamento de tarefas em equipe.
+| Ferramenta | Uso |
+|-------------|------|
+| **Scrum** | Desenvolvimento ágil com entregas iterativas |
+| **Jira** | Gestão de backlog, user stories e acompanhamento de tarefas |
 
 ---
 
 ## DevOps e Ferramentas
 
-**Git / GitHub**  
-Controle de versão padronizado para colaboração técnica.
+| Ferramenta | Uso |
+|-------------|------|
+| **Git / GitHub** | Controle de versão e colaboração |
+| **Docker** | Padronização de ambientes com containers |
+| **Maven** | Automação de builds e gerenciamento de dependências |
 
-**Docker**  
-Uso de containers para padronização do ambiente de desenvolvimento local.
-
-**Maven**  
-Automação de builds e gerenciamento de dependências Java.
