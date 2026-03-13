@@ -6,6 +6,11 @@ Os projetos reunidos aqui foram elaborados durante o curso de Tecnologia em Banc
 
 ---
 # Sobre Mim
+
+<p align="center">
+  <img src="imgs/pfp.png" width="150">
+</p>
+
  
 [GitHub](https://github.com/EnzoLFranco) | [LinkedIn](https://www.linkedin.com/in/enzo-lemos-franco/)
 
