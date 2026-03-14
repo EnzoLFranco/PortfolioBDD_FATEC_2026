@@ -59,8 +59,6 @@ Atuei como Desenvolvedor Full-Stack, contribuindo tanto no front-end quanto no b
 
 ## 🤝 Soft Skills
 
-## 🤝 Soft Skills
-
 - **Comunicação**  
   Mantive comunicação constante com a equipe para alinhar prioridades, identificar impedimentos e explicar soluções técnicas de forma clara, considerando diferentes níveis de experiência entre os membros do time.
 
