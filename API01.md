@@ -165,7 +165,7 @@ export function fatorial(): void {
 
 ---
 
-## 📊 Hard Skills (Autoavaliação)
+## Hard Skills (Autoavaliação)
 
 | Tecnologia / Metodologia | Nível | Classificação |
 |--------------------------|-------|---------------|
