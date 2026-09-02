@@ -198,3 +198,12 @@ export function fatorial(): void {
 Este projeto representou meu primeiro contato real com desenvolvimento de software colaborativo. Além de aprender TypeScript e a lógica de programação orientada a tipos, compreendi na prática a importância de tratar entradas do usuário de forma defensiva — uma lição que carrego para todos os projetos seguintes.
 
 O uso do Git em equipe, com múltiplos colaboradores editando os mesmos arquivos, me ensinou a importância da modularização não apenas como boa prática técnica, mas como estratégia de colaboração. Aprendi também que comunicar decisões técnicas de forma clara é tão importante quanto tomá-las corretamente.
+
+## Navegação
+
+| Semestre | Projeto | Empresa Parceira |
+|----------|---------|-----------------|
+| [2º Semestre – 02/2024](API02.md) | Avaliador de Soft Skills (PACER) | FATEC São José dos Campos |
+| [3º Semestre – 01/2025](API03.md) | Checkpoint | Altave |
+| [4º Semestre – 02/2025](API04.md) | Sistema de Mobilidade Urbana | Prefeitura de São José dos Campos |
+[← Voltar ao Portfólio](README.md)
