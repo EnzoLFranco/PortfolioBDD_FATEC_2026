@@ -427,3 +427,15 @@ public class ContractServiceImpl implements ContractService {
 Este projeto representou um salto significativo em complexidade em relação aos semestres anteriores. Foi a primeira vez que trabalhei com uma arquitetura real de separação entre front-end e back-end, consumindo e produzindo APIs REST — o que exigiu compreender não apenas as tecnologias individualmente, mas como elas se comunicam e quais contratos precisam ser respeitados entre as camadas.
 
 O padrão DAO que aprendi no semestre anterior com JDBC se traduziu diretamente para o Spring Boot via JPA e Repositories, o que tornou a curva de aprendizado mais suave. Já Vue.js foi um desafio novo — aprender a Composition API, o sistema de reatividade com `ref` e `provide`, e a integração com uma biblioteca de componentes como o Ant Design em um projeto real me deu uma base prática que dificilmente seria obtida apenas em exercícios acadêmicos.
+
+
+--- 
+
+## Navegação
+
+| Semestre | Projeto | Empresa Parceira |
+|----------|---------|-----------------|
+| [1º Semestre – 01/2024](API01.md) | Calculadora Científica | FATEC São José dos Campos |
+| [2º Semestre – 02/2024](API02.md) | Avaliador de Soft Skills (PACER) | FATEC São José dos Campos |
+| [4º Semestre – 02/2025](API04.md) | Sistema de Mobilidade Urbana | Prefeitura de São José dos Campos |
+[← Voltar ao Portfólio](README.md)
