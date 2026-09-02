@@ -1,5 +1,5 @@
 # API 4º Semestre – 02/2025
-## Projeto: Sistema de Mobilidade Urbana 🗺️
+## Projeto: Sistema de Mobilidade Urbana 
 **Empresa Parceira:** Prefeitura de São José dos Campos
 
 **[Repositório GitHub](https://github.com/SQLutions-FATEC/API-4-Semestre)**
