@@ -377,4 +377,12 @@ public class SprintDAO {
 
 Este projeto foi meu primeiro contato real com persistência de dados em uma aplicação desktop Java. Aprender o padrão DAO na prática — separando a lógica de acesso ao banco das regras de negócio — me deu uma base sólida que utilizei diretamente no semestre seguinte com Spring Boot.
 
+
+| Semestre | Projeto | Empresa Parceira |
+|----------|---------|-----------------|
+| [1º Semestre – 01/2024](API01.md) | Calculadora Científica | FATEC São José dos Campos |
+| [3º Semestre – 01/2025](API03.md) | Checkpoint | Altave |
+| [4º Semestre – 02/2025](API04.md) | Sistema de Mobilidade Urbana | Prefeitura de São José dos Campos |
+[← Voltar ao Portfólio](README.md)
+
 A experiência de implementar exclusão lógica com `deleted_at` também foi um aprendizado importante: percebi que em sistemas com histórico de dados, deletar registros fisicamente é quase sempre a escolha errada. Essa decisão de design, tomada neste projeto, refletiu diretamente na qualidade da rastreabilidade do sistema ao longo dos semestres avaliados.
