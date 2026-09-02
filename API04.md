@@ -374,3 +374,15 @@ public Index getAddressIndexes(
 Este foi o projeto que mais me aproximou de um sistema com dados reais e complexidade geoespacial. Trabalhar com PostGIS foi um aprendizado completamente novo — compreender que coordenadas geográficas têm um sistema de referência (`4326` para WGS84), que polígonos representam regiões e pontos representam radares, e que essas geometrias podem ser consultadas e filtradas diretamente no banco foi uma expansão significativa do que eu entendia por "banco de dados".
 
 No front-end, a adoção do padrão de composables (`useMapData`) para centralizar o carregamento de dados geoespaciais me ensinou uma forma mais robusta de organizar lógica reutilizável em Vue 3 — indo além dos componentes e serviços que utilizei nos semestres anteriores. A evolução de Ant Design (API03) para Vuetify, e de estado local para Pinia, também consolidou minha visão sobre como escolhas de stack impactam a organização e a escalabilidade de um projeto front-end.
+
+---
+
+## Navegação
+
+
+| Semestre | Projeto | Empresa Parceira |
+|----------|---------|-----------------|
+| [1º Semestre – 01/2024](API01.md) | Calculadora Científica | FATEC São José dos Campos |
+| [2º Semestre – 02/2024](API02.md) | Avaliador de Soft Skills (PACER) | FATEC São José dos Campos |
+| [3º Semestre – 01/2025](API03.md) | Checkpoint | Altave |
+[← Voltar ao Portfólio](README.md)
