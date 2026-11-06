@@ -2,7 +2,8 @@
 ## Projeto: IAzimute
 **Empresa Parceira:** AKAER
 
-**[Repositório GitHub](https://github.com/SQLutionsFATEC/API-6-Semestre)**
+**[Repositório GitHub (Back-end)](https://github.com/SQLutionsFATEC/API-6-Semestre-Backend)**
+**[Repositório GitHub (Front-end)](https://github.com/SQLutionsFATEC/API-6-Semestre-Frontend)**
 
 ---
 
@@ -672,13 +673,13 @@ function Home({ documentsRefreshKey = 0 }) {
 
 | Tecnologia / Metodologia | Nível | Classificação |
 |--------------------------|-------|---------------|
-| Python + Django | ☆☆☆☆☆ | — |
-| React (JSX) | ☆☆☆☆☆ | — |
-| PostgreSQL / Modelagem Relacional | ☆☆☆☆☆ | — |
-| Docker | ☆☆☆☆☆ | — |
-| Keycloak / OpenID Connect | ☆☆☆☆☆ | — |
-| Testes Automatizados (Pytest / RTL) | ☆☆☆☆☆ | — |
-| Metodologia Ágil (Scrum) | ☆☆☆☆☆ | — |
+| Python + Django | ★★★★★ | Sei fazer com autonomia |
+| React (JSX) | ★★★★★ | Sei fazer com autonomia |
+| PostgreSQL / Modelagem Relacional | ★★★★☆ | Sei fazer com ajuda |
+| Docker | ★★★★☆ | Sei fazer com ajuda |
+| Keycloak / OpenID Connect | ★★★★☆ | Sei fazer com ajuda |
+| Testes Automatizados (Pytest / RTL) | ★★★★☆ | Sei fazer com ajuda |
+| Metodologia Ágil (Scrum) | ★★★★☆ | Sei fazer com ajuda |
 
 ---
 
