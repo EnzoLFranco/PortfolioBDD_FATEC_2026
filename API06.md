@@ -2,8 +2,7 @@
 ## Projeto: IAzimute
 **Empresa Parceira:** AKAER
 
-**[Repositório GitHub (Back-end)](https://github.com/SQLutionsFATEC/API-6-Semestre-Backend)**
-**[Repositório GitHub (Front-end)](https://github.com/SQLutionsFATEC/API-6-Semestre-Frontend)**
+**[Repositório GitHub](https://github.com/SQLutionsFATEC/API-6-Semestre)**
 
 ---
 
